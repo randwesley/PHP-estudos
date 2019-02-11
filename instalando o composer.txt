@@ -1,0 +1,4 @@
+php -r "readfile('https://getcomposer.org/installer');" | php 
+
+para instalar o composer.phar no diretorio do projeto
+
