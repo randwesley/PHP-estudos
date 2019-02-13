@@ -1,4 +1,15 @@
 php -r "readfile('https://getcomposer.org/installer');" | php 
-
 para instalar o composer.phar no diretorio do projeto
+
+https://phpunit.de/getting-started/phpunit-8.html
+phpUnit
+
+https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=https://github.com/facebook/php-webdriver&xid=17259,15700021,15700186,15700191,15700248&usg=ALkJrhjOLm7e4elGyfyURyBb21LTcP32Kw
+php webdriver
+
+https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=https://github.com/lmc-eu/steward&xid=17259,15700021,15700186,15700191,15700248&usg=ALkJrhjxw1rU4W7yZxcv1Ukf_j2gEi9d8w
+biblioteca funcional que facilita a integração do phpUnit com o selenium
+
+https://translate.google.com/translate?hl=pt-BR&sl=en&u=http://geekpad.ca/blog/post/automating-browser-testing-with-phpunit-and-selenium&prev=search
+exemplo de utilização do selenium + phpunit
 
