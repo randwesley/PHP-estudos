@@ -1,0 +1,21 @@
+{
+    "name": "wesley/composer",
+    "description": "uso do composer",
+    "type": "dev",
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "7.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "wesley\\Loja\\": [
+                "src/wesley/Loja",
+                "tests/wesley/Loja"
+            ],
+            "wesley\\Exemplos\\": [
+                "src/wesley/Exemplos",
+                "tests/wesley/Exemplos"
+            ]
+        }
+    }
+}
